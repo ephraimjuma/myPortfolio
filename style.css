@@ -50,7 +50,8 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: #FFD700;
+   /* background: #FFD700;*/
+   background: #fce296;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -72,7 +73,7 @@ nav ul  li a:hover::after{
 }
 
 .header-text h1 span{
-    color: #FFD700;
+    color: #fce296;
 }
 
 /*-------------------about----------------------*/
@@ -124,7 +125,7 @@ nav ul  li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #FFD700;
+    background: #fce296;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -141,7 +142,7 @@ nav ul  li a:hover::after{
 }
 
 .tab-contents ul li span{
-    color: #FFDF00;
+    color: #fce296;
     font-size: 14px;
 }
 
@@ -185,14 +186,14 @@ nav ul  li a:hover::after{
 
 .services-list div a{
     text-decoration: none;
-    color: #FFD700;
+    color: #fce296;
     font-size: 12px;
     margin-top: 20px;
     display: inline-block;
 }
 
 .services-list div:hover{
-    background: #FFD700;
+    background: #fce296;
     transform:translateY(-10px) ;
 }
 
@@ -224,7 +225,7 @@ nav ul  li a:hover::after{
 .layer{
     width: 100%;
     height: 0%;
-    background: linear-gradient(rgba(0,0,0,0.6), #FFDF00);
+    background: linear-gradient(rgba(0,0,0,0.6), #fce296);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -247,7 +248,7 @@ nav ul  li a:hover::after{
 
 .layer a{
     margin-top: 20px;
-    color: #FFD700;
+    color: #fce296;
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
@@ -271,7 +272,7 @@ nav ul  li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #FFD700;
+    border: 1px solid #fce296;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -280,7 +281,7 @@ nav ul  li a:hover::after{
 }
 
 .btn:hover{
-    background: #FFDF00;
+    background: #fce296;
 }
 
 /*----------contact-----------*/
@@ -297,7 +298,7 @@ nav ul  li a:hover::after{
 }
 
 .contact-left p i{
-    color: #FFD700;
+    color: #fce296;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -316,13 +317,13 @@ nav ul  li a:hover::after{
 }
 
 .social-icons a:hover{
-    color: #FFD700;
+    color: #fce296;
     transform: translateY(-5px);
 }
 
 .btn.btn2{
     display: inline-block;
-    background: #FFD700;
+    background: #fce296;
 }
 
 .contact-right form{
@@ -357,7 +358,7 @@ form btn2{
 }
 
 .copyright i{
-    color: #FFD700;
+    color: #fce296;
 }
 
 /*--------------------------css for small screen-----------------*/
@@ -382,7 +383,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: #FFD700;
+        background: #fce296;
         position: fixed;
         top: 0;
         right: -200px;
@@ -426,7 +427,7 @@ nav .fa-solid{
     }
 }
 #msg{
-    color: #61b752;
+    color: #fce296;
     margin-top: -40px;
     display: block;
 }
